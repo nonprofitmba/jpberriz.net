@@ -83,12 +83,11 @@ html {
 }
 
 /* About section */
+/* Took out font-family: "Abril Fatface", serif; -- doesn't work with my long name */
 .sidebar-about h1 {
   color: #fff;
   margin-top: 0;
-  /* font-family: "Abril Fatface", serif; -- doesn't work with my long name */
   font-size: 1.6rem;
-   
 }
 
 /* Sidebar nav */
