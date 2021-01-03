@@ -6,8 +6,10 @@ permalink:        pretty
 
 # Setup
 title:            Juan Pablo Berrizbeitia
-tagline:          'Building a creative practice'
-description:      'Building a creative practice'
+tagline:          'JPBerriz'
+description: >      
+   Building a creative practice
+   @jpberriz
 url:              https://jpberriz.com
 baseurl:          /
 
