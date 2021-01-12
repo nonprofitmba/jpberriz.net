@@ -91,7 +91,7 @@ html {
 }
 
 /* Mailchimp -- added by JP */
-.mailchimp {
+#mailchimp {
    color: #fff;
    font-size: 1rem;
 }
