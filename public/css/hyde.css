@@ -91,10 +91,12 @@ html {
 }
 
 /* Mailchimp -- added by JP */
-#mc-title {
+#mailchimp {
    color: #fff;
    font-size: 1rem;
 }
+
+
 
 /* Sidebar nav */
 .sidebar-nav {
