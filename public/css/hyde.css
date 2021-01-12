@@ -91,7 +91,11 @@ html {
 }
 
 /* Mailchimp -- added by JP */
-#mailchimp {
+#mailchimp .mc-title {
+   color: #fff;
+}
+
+#mailchimp .mc-invitation {
    color: #fff;
    font-size: 1rem;
 }
