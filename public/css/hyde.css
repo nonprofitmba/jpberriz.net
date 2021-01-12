@@ -90,6 +90,12 @@ html {
   font-size: 1.6rem;
 }
 
+/* Mailchimp -- added by JP */
+#mc-title {
+   color: #fff;
+   font-size: 1rem;
+}
+
 /* Sidebar nav */
 .sidebar-nav {
   margin-bottom: 1rem;
