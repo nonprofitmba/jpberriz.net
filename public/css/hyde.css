@@ -107,7 +107,9 @@ html {
 }
 
 /* Social Media -- added by JP */
-
+.social-media-links {
+   margin-top: 2rem;
+}
 
 
 /* Sidebar nav */
@@ -124,6 +126,12 @@ a.sidebar-nav-item:focus {
 }
 .sidebar-nav-item.active {
   font-weight: bold;
+}
+
+/* Copyright -- added by JP */
+.copyright {
+   margin-top: 3rem;
+   font-size: 0.75rem;
 }
 
 /* Sticky sidebar
