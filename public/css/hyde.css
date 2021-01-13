@@ -71,11 +71,12 @@ html {
   .sidebar-about {
     text-align: center; 
   }
-  .profile-picture {
-   display: block;
-   margin-left: auto;
-   margin-right:auto;
-  }
+}
+
+/* JP added this to get his profile picture to be centered */
+#profile-picture {
+  margin-left: auto;
+  margin-right: auto;
 }
 
 /* Sidebar links */
