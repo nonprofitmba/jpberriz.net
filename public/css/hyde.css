@@ -100,11 +100,14 @@ html {
 .mailchimp {
    color: #fff;
 }
+#subscribe {
+   font-size: 0.75rem
+}
 
 
 /* Social Media -- added by JP */
 .social-media-links {
-   margin-top: 2rem;
+   margin-top: 3rem;
    margin-bottom: 2rem;
 }
 #instagram {
@@ -115,7 +118,8 @@ html {
 
 /* Sidebar nav */
 .sidebar-nav {
-  margin-bottom: 1rem;
+  margin-bottom: 2rem;
+  margin-top: 2rem;
 }
 .sidebar-nav-item {
   display: block;
@@ -134,6 +138,7 @@ a.sidebar-nav-item:focus {
 .copyright {
    margin-top: 3rem;
    font-size: 0.75rem;
+   clear: both;
 }
 
 
