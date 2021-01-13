@@ -87,7 +87,7 @@ html {
 .sidebar-about h1 {
   color: #fff;
   margin-top: 0;
-  font-size: 2.5 rem;
+  font-size: 2.5rem;
 }
 
 /* Mailchimp -- added by JP */
@@ -95,14 +95,14 @@ html {
    color: #fff;
 }
 
-h1.mc-title {
+.mc-title {
    color: #fff;
    font-size: 1rem;
    margin-top: 2.5rem;
    margin-bottom: 0;
 }
 
-p.mc-invitation {
+.mc-invitation {
     margin-bottom: 0;
 }
 
