@@ -71,7 +71,8 @@ html {
   .sidebar-about {
     text-align: center; 
   }
-  #profile-picture {
+  .profile-picture {
+   display: block;
    margin-left: auto;
    margin-right:auto;
   }
