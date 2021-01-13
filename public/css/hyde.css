@@ -68,6 +68,9 @@ html {
     width: 18rem;
     text-align: left;
   }
+  .sidebar-about {
+    text-align: center; 
+  }
 }
 
 /* JP added this to get his profile picture to be centered */
@@ -90,21 +93,12 @@ html {
   font-size: 1.6rem;
 }
 
+
 /* Mailchimp -- added by JP */
 .mailchimp {
    color: #fff;
 }
 
-.mc-title {
-   color: #fff;
-   font-size: 1rem;
-   margin-top: 2.5rem;
-   margin-bottom: 0;
-}
-
-.mc-invitation {
-    margin-bottom: 0;
-}
 
 /* Social Media -- added by JP */
 .social-media-links {
@@ -128,11 +122,13 @@ a.sidebar-nav-item:focus {
   font-weight: bold;
 }
 
+
 /* Copyright -- added by JP */
 .copyright {
    margin-top: 3rem;
    font-size: 0.75rem;
 }
+
 
 /* Sticky sidebar
  *
