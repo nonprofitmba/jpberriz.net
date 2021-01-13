@@ -71,6 +71,9 @@ html {
   .sidebar-about {
     text-align: center; 
   }
+  #instagram {
+    float: left;
+  }
 }
 
 /* JP added this to get his profile picture to be centered */
@@ -102,6 +105,11 @@ html {
 /* Social Media -- added by JP */
 .social-media-links {
    margin-top: 2rem;
+   margin-bottom: 2rem;
+}
+#instagram {
+   margin-left: auto;
+   margin-right: auto;   
 }
 
 
