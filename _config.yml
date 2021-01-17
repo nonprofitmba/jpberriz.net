@@ -11,9 +11,9 @@ description:      'Building a creative practice'
 url:              https://jpberriz.com
 baseurl:          /
 
-author:
+author:           'Juan Pablo Berrizbeitia'
   name:           'Juan Pablo Berrizbeitia'
-  url:            https://twitter.com/mdo
+  url:            
 
 paginate:         5
 
@@ -24,3 +24,7 @@ github:
   repo:           https://github.com/poole/hyde
 
 include:          ['_pages']
+
+tipue_search:
+  include:
+    pages:        true
