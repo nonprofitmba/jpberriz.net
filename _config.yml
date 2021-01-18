@@ -11,9 +11,9 @@ description:      'Building a creative practice'
 url:              https://jpberriz.com
 baseurl:          /
 
-author:           'Juan Pablo Berrizbeitia'
+author:           
   name:           'Juan Pablo Berrizbeitia'
-  url:            
+  url:            'http://jpberriz.com'
 
 paginate:         5
 
@@ -21,7 +21,7 @@ paginate:         5
 version:          2.1.0
 
 github:
-  repo:           https://github.com/poole/hyde
+  repo:           https://github.com/jpberriz/jpberriz.com
 
 include:          ['_pages']
 
