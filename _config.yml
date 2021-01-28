@@ -25,6 +25,10 @@ github:
 
 include:          ['_pages']
 
+# Site search 
 tipue_search:
   include:
     pages:        true
+
+# Google Analytics
+google_analytics: G-P8VDRWRQ8P
