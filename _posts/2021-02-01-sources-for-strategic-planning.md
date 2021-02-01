@@ -1,22 +1,20 @@
 ---
 layout: post
-title: sources for strategic planning
+title: Sources for strategic planning
 permalink: sources-for-strategic-planning
 ---
 
 
 
-#Sources for strategic planning
-
 I'm undergoing a strategic planning process at my nonprofit, and also at two of the nonprofits for which I'm on the board. I'm familiar with different approaches to strategic planning, but I want to go deeper. 
 
-###Traction - by Gino Wickman
+### Traction - by Gino Wickman
 
 ![Photo of Traction by Gino Wickman](assets/Photo of Traction by Gino Wickman.jpg)
 
 I've been implementing [Traction by Gino Wickman](https://smile.amazon.com/Traction-Get-Grip-Your-Business/dp/1936661837/) at my nonprofit as part of our own internal growth and development. I've found that some element of Traction fit nicely in a strategic planning process: defining the organization's core values, a 10 year goal, a core focus, marketing strategy.  It's a good tool and I will continue to use it. But for strategic planning purposes, it has its limitations. 
 
-###Blue Ocean Strategy
+### Blue Ocean Strategy
 
 Another resource I've come across is [Blue Ocean Strategy](https://smile.amazon.com/Blue-Ocean-Strategy-Expanded-Uncontested/dp/1625274491/), which has been around for some years now, but I hadn't read it before, or considered it for my nonprofit work.  It's been fun figuring out how to apply it and make it work.  I'm not finished with it, but so far, what I've found that it presents interesting premises that are worth adapting to nonprofit work.
 
