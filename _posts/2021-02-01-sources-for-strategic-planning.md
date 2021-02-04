@@ -19,7 +19,7 @@ But for strategic planning purposes, it has its limitations.
 
 Another resource I've come across is <a href="https://smile.amazon.com/Blue-Ocean-Strategy-Expanded-Uncontested/dp/1625274491/" target="_blank">Blue Ocean Strategy</a>, which has been around for some years now, but I hadn't read it before, or considered it for my nonprofit work.  It's been fun figuring out how to apply it and make it work.  I'm not finished with it, but so far, what I've found that it presents interesting premises that are worth adapting to nonprofit work. 
 
-I'll share more on this as I work on it. 
+I'll share more on this as I work on it. [Subscribe here](https://jpberriz.com/subscribe/) if you don't want to miss it.
 
 
 
