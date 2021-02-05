@@ -63,11 +63,11 @@ Turning Great Strategy into Great Performance, by Michael C. Mankins and Richard
 
 ## Websites
 
-[Managementhelp.org - resources on strategic planning.](https://href.li/?https://managementhelp.org/strategicplanning/index.htm#anchor1234?ts=1612480172)
+[Managementhelp.org - resources on strategic planning.](https://managementhelp.org/strategicplanning/index.htm#anchor1234?ts=1612480172)
 
 
 
 ## Online Course: 
 
-[https://www.coursera.org/learn/uva-darden-strategic-planning-execution/home/info](https://t.umblr.com/redirect?z=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fuva-darden-strategic-planning-execution%2Fhome%2Finfo&t=NGVmZjNiMzBhYWJkMmM4NDNjNGY3ZTY0ZmVmMjRhNmJiNmQ1MDkyNiw0YTFlMTc1MWQwN2ZjMGEzNDBiNjE0NDE0NTRlNzIwNTMzM2Y5MGNj&ts=1612480172)
+[https://www.coursera.org/learn/uva-darden-strategic-planning-execution/home/info](https://www.coursera.org/learn/uva-darden-strategic-planning-execution/home/info)
 
