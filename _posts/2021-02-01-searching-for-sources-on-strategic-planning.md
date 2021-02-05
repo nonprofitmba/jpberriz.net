@@ -48,9 +48,9 @@ I thought these are good places to start:
 
 ## Next steps
 
-1. Compile and share a complete list of sources I found on strategic planning for nonprofits.
+1. Compile and share a complete list of sources I found on strategic planning for nonprofits. [Here it is!]({% complete-list-of-sources-on-strategic-planning %})
 2. Study each source and share my findings and thoughts on each.
-3. Create and share a short list of the most valuable of sources. 
+4. Create and share a short list of the most valuable of sources. 
 
 
 
