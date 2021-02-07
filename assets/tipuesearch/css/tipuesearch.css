@@ -13,6 +13,7 @@ http://www.tipue.com/search
 #tipue_search_input
 {
 	font-family: "PT Sans", Helvetica, Arial, sans-serif;
+	font-size: 16px;
    color: #333;
    max-width: 210px;
 	padding: 17px;
