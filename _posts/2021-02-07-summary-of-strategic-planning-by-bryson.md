@@ -2,7 +2,8 @@
 layout: post
 title: Summary of Strategic Planning by Bryson
 permalink: summary-of-strategic-planning-by-Bryson
-categories: purpose, strategic planning, summaries, books 
+category: strategic planning 
+tags: purpose, summaries, books
 ---
 
 This is my summary of the book "Strategic Planning for Public and Nonprofit Organizations" by John M. Bryson.

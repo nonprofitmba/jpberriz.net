@@ -2,7 +2,8 @@
 layout: post
 title: Searching for sources on strategic planning
 permalink: searching-for-sources-for-strategic-planning
-categories: purpose, strategic planning, resources
+category: strategic planning
+tags: purpose resources
 ---
 I'm undergoing a strategic planning process at my nonprofit, and also at two of the nonprofits for which I'm a board member. I'm familiar with different approaches to strategic planning, but I feel that I need to go deeper into the subject. 
 
