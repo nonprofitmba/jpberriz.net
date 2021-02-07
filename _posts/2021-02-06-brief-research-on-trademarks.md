@@ -9,6 +9,7 @@ categories: trademark [intellectual property]
 
 ## Resources:
 
-United States Patent and Trademark Office, great to look up patents and trademarks https://www.uspto.gov/
+[United States Patent and Trademark Office](https://www.uspto.gov/), great to look up patents and trademarks.
 
-Good resource to get an overview of trademark classes: https://www.names4brands.com/trademark-class-search.php#google_vignette 
+
+[This webpage](https://www.names4brands.com/trademark-class-search.php#google_vignette) is a good resource to get an overview of trademark classes. 
