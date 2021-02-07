@@ -2,8 +2,8 @@
 layout: post
 title: Brief research on trademarks
 permalink: brief-research-on-trademarks
-category: intellectual property
-tags: trademark
+category: Intellectual property
+tags: Trademark
 ---
 
 ![Photo of R and TM cards](../assets/Photo of R and TM cards.jpg)
