@@ -69,5 +69,5 @@ Bryson refers to the strategic planning process as a Strategy Change Cycle that 
 
 
 
-If you find this book summary to be interesting and useful to you, please [subscribe](...subscribe.html)
+If you find this book summary to be interesting and useful to you, please [subscribe](subscribe)
 
