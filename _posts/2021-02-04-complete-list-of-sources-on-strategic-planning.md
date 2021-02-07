@@ -2,6 +2,7 @@
 layout: post
 title: Complete list of sources I found on strategic planning
 permalink: complete-list-of-sources-on-strategic-planning
+categories: [strategic planning] books articles courses resources
 ---
 This is a complete list of sources I found online on **strategic planning for nonprofits**, in no particular order.
 
