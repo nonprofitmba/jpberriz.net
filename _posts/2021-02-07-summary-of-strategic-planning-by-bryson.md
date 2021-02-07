@@ -71,3 +71,7 @@ Bryson refers to the strategic planning process as a Strategy Change Cycle that 
 
 If you find this book summary to be interesting and useful to you, please [subscribe](subscribe)
 
+For a complete list of resources on strategic planning, go [here](complete-list-of-sources-on-strategic-planning)
+
+Next, I will be reading and summarizing "Creating Your Strategic Plan: A Workbook for Public and Nonprofit Organizations, by John M. Bryson, Farnum K. Alston." [Subscribe](subscribe) so you don't miss out.
+
