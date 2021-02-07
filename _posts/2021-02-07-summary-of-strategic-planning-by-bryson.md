@@ -2,7 +2,7 @@
 layout: post
 title: Summary of Strategic Planning by Bryson
 permalink: summary-of-strategic-planning-by-Bryson
-category: Strategic planning 
+category: Nonprofit strategic planning
 tags: Purpose, Summaries, Books
 ---
 
