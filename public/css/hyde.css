@@ -113,15 +113,9 @@ html {
 #instagram {
    margin-top: 3rem;
    margin-bottom: 2rem;
-   margin-right: 2rem;
-   margin-left: 2rem;
+   margin-right: 1rem;
 }
-#linkedin {
-   margin-top: 3rem;
-   margin-bottom: 2rem;
-   margin-right: 2rem;
-   margin-left: 2rem;
-}
+
 
 /* Sidebar nav */
 .sidebar-nav {
