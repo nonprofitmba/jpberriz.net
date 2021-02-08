@@ -111,10 +111,16 @@ html {
    margin-right: auto;   
 }
 #instagram {
-   margin: auto;
+   margin-top: 3rem;
+   margin-bottom: 2rem;
+   margin-right: 2rem;
+   margin-left: 2rem;
 }
 #linkedin {
-   margin: auto;
+   margin-top: 3rem;
+   margin-bottom: 2rem;
+   margin-right: 2rem;
+   margin-left: 2rem;
 }
 
 /* Sidebar nav */
