@@ -76,7 +76,7 @@ html {
   }
   #linkedin {
     float: left;
-    margin-left: 2rem;
+    margin-left: 1rem;
   }
 }
 
@@ -114,7 +114,7 @@ html {
    margin-top: 3rem;
    margin-bottom: 2rem;
 }
-#instagram, #linkedin {
+#instagram {
    margin-left: auto;
    margin-right: auto;   
 }
