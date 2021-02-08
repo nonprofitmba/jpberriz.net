@@ -114,9 +114,10 @@ html {
    margin-top: 3rem;
    margin-bottom: 2rem;
 }
-#instagram {
+#instagram, #linkedin {
    margin-left: auto;
-   margin-right: auto;   
+   margin-right: auto;  
+   padding: 1rem;
 }
 
 
