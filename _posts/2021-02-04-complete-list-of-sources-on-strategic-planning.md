@@ -11,9 +11,9 @@ This is a complete list of sources I found online on **strategic planning for no
 
 ## Books
 
-Strategic Planning for Public and Nonprofit Organizations: A Guide to Strengthening and Sustaining Organizational Achievement, by John M. Bryson. -- [Read my summary here](summary of strategic planning by Bryson)
+Strategic Planning for Public and Nonprofit Organizations: A Guide to Strengthening and Sustaining Organizational Achievement, by John M. Bryson. -- [Read my summary here](summary-of-strategic-planning-for-public-and-nonprofit-organizations-by-john-bryson)
 
-Creating Your Strategic Plan: A Workbook for Public and Nonprofit Organizations, by John M. Bryson, Farnum K. Alston. -- [Read my summary here](Summary of Creating your Strategic Plan Workbook by Bryson)
+Creating Your Strategic Plan: A Workbook for Public and Nonprofit Organizations, by John M. Bryson, Farnum K. Alston. -- [Read my summary here](summary-of-creating-your-strategic-plan-a-workbook-for-public-and-nonprofit-organizations-by-john-bryson-and-farnum-alston)
 
 Implementing and Sustaining Your Strategic Plan: A Workbook for Public and Nonprofit Organizations, by John M. Bryson, Sharon Roe Anderson, Farnum K. Alston.  
 
