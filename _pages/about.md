@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About JP
+title: About
 permalink: /about
 ---
 
