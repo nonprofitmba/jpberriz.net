@@ -17,3 +17,4 @@ His social business and enterprises are [Estrategias LiD](https://web.archive.or
 He also works as a consultant for the [World Bank](https://web.archive.org/web/20131221202459/http://juanpablomolina.com/world-bank/).
 
 Juan Pablo’s [academic experience](https://web.archive.org/web/20131221202459/http://juanpablomolina.com/academics/) includes lecturing and writing on Law and Society in Latin America, Sociology of Law, Ethics in Law and Business, and Judicial Reform in Latin America.
+
