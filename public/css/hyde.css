@@ -72,6 +72,8 @@ html {
   .sidebar-about {
     text-align: center; 
   }
+
+/* JP. To have social icons align left on sidebar 
   #instagram {
     float: left;
   }
@@ -83,7 +85,8 @@ html {
     float: left;
     margin-left: 1rem;
   }
-   
+
+*/   
    
 }
 
