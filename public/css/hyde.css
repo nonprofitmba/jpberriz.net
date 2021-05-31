@@ -67,8 +67,12 @@ html {
     left: 0;
     bottom: 0;
     width: 18rem;
-    text-align: left;
   }
+
+/* JP.To have sidebar items align left add this line to the block above .sidebar-about
+   text-align: left;
+*/
+
   .sidebar-about {
     text-align: center; 
   }
