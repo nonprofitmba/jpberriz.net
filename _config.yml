@@ -5,9 +5,9 @@ highlighter:      rouge
 permalink:        pretty
 
 # Setup
-title:            Juan Pablo Berrizbeitia
+title:            JPBerriz
 tagline:          'JPBerriz'
-description:      'Building a creative practice'
+description:      'Consulting & Training'
 url:              https://jpberriz.com
 baseurl:          /
 
