@@ -344,6 +344,11 @@ tbody tr:nth-child(odd) th {
   margin-top: 0;
 }
 
+/* JP. Make post title blue on hover. So user can identify link */
+.post-title a:hover {
+  color: #268bd2;
+}
+
 /* Meta data line below post title */
 .post-date {
   display: block;
