@@ -6,7 +6,20 @@ exclude_from_search: true
 ---
 # About
 
-Juan Pablo Berrizbeitia has worked as an international consultant in the area of law and development, transparency,  
+
+Im a consultant, trainer, and speaker in the areas of access to justice, rule of law, and nonprofit management.
+
+I've carried out projects in refugee settlement, a guerrilla hot zone,  I also worked as a consultant for the World Bank and the United Nations.
+
+I have the academic background 
+
+I am fully bi-lingual and bi-cultural Latin American and 
+
+I am currently offering training sessions on nonprofit management and writing a book on nonprofit management. Go to nonprofit.mba for details. There is also a free nonprofit capacity assessment tool you can use.
+
+Subscribe to my email list to keep you updated with interesting projects and new offerings
+
+
 
 Law and Development 
 
