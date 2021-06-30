@@ -1,9 +1,3 @@
----
-layout: page
-title: About
-permalink: /about
----
-
 Juan Pablo Berrizbeitia has worked as an international consultant in the area of law and development, transparency,  
 
 Law and Development 
