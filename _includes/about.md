@@ -1,3 +1,9 @@
+---
+title: About
+layout: page
+permalink: /about/
+exclude_from_search: true
+---
 # About
 
 Juan Pablo Berrizbeitia has worked as an international consultant in the area of law and development, transparency,  
