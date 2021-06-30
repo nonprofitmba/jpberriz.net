@@ -4,7 +4,7 @@ layout: page
 permalink: /about/
 exclude_from_search: true
 ---
-# About
+# TEST
 
 
 Im a consultant, trainer, and speaker in the areas of access to justice, rule of law, and nonprofit management.
