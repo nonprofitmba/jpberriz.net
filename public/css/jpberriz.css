@@ -1,0 +1,80 @@
+/* JPBerriz - Stylesheet */
+
+/* Changed font-family */
+html {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  
+}
+
+/* JP.To have sidebar items align left add this line to the block above .sidebar-about
+   text-align: left;
+*/
+  .sidebar-about {
+    text-align: center; 
+  }
+
+/* JP. To have social icons align left on sidebar 
+  #instagram {
+    float: left;
+  }
+  #linkedin {
+    float: left;
+    margin-left: 1rem;
+  }
+  #tumblr {
+    float: left;
+    margin-left: 1rem;
+  }
+
+*/   
+   
+
+/* JP added this to get his profile picture to be centered */
+#profile-picture {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* Sidebar about section */
+/* Took out font-family: "Abril Fatface", serif; -- doesn't work with my long name */
+.sidebar-about h1 {
+  color: #fff;
+  margin-top: 0;
+  font-size: 1.6rem;
+}
+
+/* Mailchimp -- added by JP */
+.mailchimp {
+   color: #fff;
+}
+#subscribe {
+   font-size: 0.75rem
+}
+
+/* Social Media -- added by JP */
+#instagram, #linkedin, #tumblr {
+   margin-left: auto;
+   margin-right: auto;  
+   padding-right: 0.8rem;
+}
+
+/* Copyright -- added by JP */
+.copyright {
+   margin-top: 3rem;
+   font-size: 0.75rem;
+   clear: both;
+}
+
+/* JP. Make post title blue on hover. So user can identify link */
+.post-title a:hover {
+  color: #268bd2;
+}
+
+/* Notes by Categories on Notes page */
+.category-head {
+   font-size: 1rem;
+}
+
+.archive-item {
+   font-size: 1rem;
+}
