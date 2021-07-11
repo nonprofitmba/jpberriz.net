@@ -1,16 +1,12 @@
 ---
 layout: post
 title: Summary of Strategic Planning by Bryson
-permalink: summary-of-strategic-planning-for-public-and-nonprofit-organizations-by-john-bryson
+permalink: summary-of-strategic-planning-by-john-bryson
 category: Nonprofit strategic planning
 tags: Purpose, Summaries, Books
 ---
 
 This is my summary of the book "Strategic Planning for Public and Nonprofit Organizations" by John M. Bryson.
-
-![Strategic Planning Bryson Book Cover](../assets/Strategic Planning Bryson Book Cover.png)
-
-
 
 ## Overview
 
@@ -29,8 +25,6 @@ These are the ideas that I found to be the **most actionable for the nonprofit m
 ### 1. Purpose
 
 The purpose of the strategic planning process is to **identify fundamental decision and actions** that will help you advance your nonprofit from *where it is* to *where you want it to be*. 
-
-![Photo of Strategic Planning Purpose](../assets/Photo of Strategic Planning Purpose.jpg)
 
 
 

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Searching for sources on strategic planning
-permalink: searching-for-sources-for-strategic-planning
+title: Research for sources on strategic planning
+permalink: research-for-sources-on-strategic-planning
 category: Nonprofit strategic planning
 tags: Purpose Resources
 ---
@@ -10,8 +10,6 @@ I'm undergoing a strategic planning process at my nonprofit, and also at two of 
 Here is my starting point: 
 
 ### I've been using Traction - by Gino Wickman
-
-![Photo of Traction by Gino Wickman](../assets/Photo of Traction by Gino Wickman.jpg)
 
 I've been implementing <a href="https://smile.amazon.com/Traction-Get-Grip-Your-Business/dp/1936661837/" target="_blank">Traction by Gino Wickman</a> at my nonprofit as part of our own internal growth and development. I've found that some element of Traction fit nicely in a strategic planning process: defining the organization's core values, a 10 year goal, a core focus, marketing strategy.  It's a good tool and I will continue to use it. It is has great value in focusing our work and daily operations. 
 
