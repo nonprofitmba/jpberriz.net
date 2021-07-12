@@ -27,5 +27,5 @@ I want nonprofits to evolve from being perceived and operated as charities, to c
 
 I also want to change the culture around justice. I want law and justice practitioners to approach their work as system designers. I believe that this will create fairer outcomes. 
 
-I also forget often how powerful a dominant culture can be. So often I am surprised and frustrated to find resistance where I needed support. 
+I also forget often how powerful a dominant culture can be. So often I am surprised and frustrated to find resistance where I expected support. 
 
