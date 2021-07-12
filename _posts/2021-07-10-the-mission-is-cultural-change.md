@@ -15,11 +15,7 @@ Seth Godin says it much better than me on this [blog post](https://seths.blog/20
 
 #### Day by day, inch by inch
 
-Cultural change is not implemented quickly. It takes a lot of time to modify the behavior of a large group of people. To win that war of cultural change, you have to fight many battles. Some you will win and some you will loose - because the current dominant culture pushes back. 
-
-If you are trying to change the world, focus on changing the culture. 
-
-Be persistent, consistent and resilient. 
+Cultural change is not implemented quickly. It takes a lot of time to modify the behavior of a large group of people. To win that war of cultural change, you have to fight many battles. Some you will win and some you will loose - because the dominant culture pushes back. Be patient, persistent, consistent, resilient. 
 
 
 
