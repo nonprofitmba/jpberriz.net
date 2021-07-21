@@ -2,8 +2,8 @@
 layout: post
 title: Summary of Creating your Strategic Plan Workbook by Bryson
 permalink: summary-of-creating-your-strategic-plan-workbookby-john-bryson-and-farnum-alston
-category: Nonprofit strategic planning
-tags: Purpose, Summaries, Books
+category: Nonprofit Management
+tags: Strategic Planning, Purpose, Summaries, Books
 ---
 This is my review of "Creating Your Strategic Plan: A Workbook for Public and Nonprofit Organizations", by John M. Bryson, Farnum K. Alston.
 
