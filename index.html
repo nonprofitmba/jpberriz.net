@@ -11,34 +11,35 @@ layout: default
         {{ post.title }}
       </a>
     </h2>
+    {{ post.content }}
+    <hr>
     <span class="post-date">{{ post.date | date_to_string }}</span>
-    {{ post.excerpt }}
   </div>
-  {% endfor %}
+ {% endfor %}
 </div>
 
 {% if paginator.total_pages > 1 %}
 <div class="pagination">
   {% if paginator.previous_page %}
-    <a href="{{ paginator.previous_page_path | relative_url }}">&laquo; Prev</a>
+    <a href="{{ paginator.previous_page_path | relative_url }}">&laquo; Prev &nbsp;</a>
   {% else %}
-    <span>&laquo; Prev</span>
+    <span>&laquo; Prev &nbsp;</span>
   {% endif %}
 
   {% for page in (1..paginator.total_pages) %}
     {% if page == paginator.page %}
-      <em>{{ page }}</em>
+      {{ page }}&nbsp;
     {% elsif page == 1 %}
-      <a href="{{ '/' | relative_url }}">{{ page }}</a>
+      <a href="{{ '/' | relative_url }}">{{ page }}&nbsp;</a>
     {% else %}
       <a href="{{ site.paginate_path | relative_url | replace: ':num', page }}">{{ page }}</a>
     {% endif %}
   {% endfor %}
 
   {% if paginator.next_page %}
-    <a href="{{ paginator.next_page_path | relative_url }}">Next &raquo;</a>
+    <a href="{{ paginator.next_page_path | relative_url }}">&nbsp; Next &raquo;</a>
   {% else %}
-    <span>Next &raquo;</span>
+    <span>&nbsp; Next &raquo;</span>
   {% endif %}
 </div>
 {% endif %}
