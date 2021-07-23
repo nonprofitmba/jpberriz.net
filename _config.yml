@@ -10,6 +10,7 @@ tagline:          'JPBerriz'
 description:      'Life is Art'
 url:              https://jpberriz.com
 baseurl:          /
+theme:            Hyde
 
 author:           
   name:           'Juan Pablo Berrizbeitia'
