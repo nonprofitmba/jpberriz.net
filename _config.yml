@@ -4,6 +4,8 @@ highlighter:      rouge
 # Permalinks
 permalink:        pretty
 
+remote_theme:     poole/hyde
+
 # Setup
 title:            JPBerriz
 tagline:          'JPBerriz'
