@@ -78,3 +78,14 @@ html {
 .archive-item {
    font-size: 1rem;
 }
+
+
+
+/* Post date changes */
+.post-date {
+  display: block;
+  text-align: right;
+  margin-top: -1.5rem;
+  font-size: 0.75rem;
+  color: #515151;
+}
