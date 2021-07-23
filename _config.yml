@@ -1,4 +1,5 @@
 # Dependencies
+markdown:         kramdown
 highlighter:      rouge
 
 # Permalinks
@@ -13,10 +14,9 @@ baseurl:          /
 
 author:           
   name:           'Juan Pablo Berrizbeitia'
-  url:            'http://jpberriz.com'
+  url:            http://jpberriz.com
 
 paginate:         5
-
 
 # Custom vars
 version:          2.1.0

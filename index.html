@@ -1,6 +1,6 @@
 ---
-title: Notes
 layout: default
+title: Notes
 ---
 
 <div class="posts">
@@ -11,7 +11,9 @@ layout: default
         {{ post.title }}
       </a>
     </h2>
+    
   <span class="post-date">{{ post.date | date_to_string }}</span>
+    
     {{ post.content }}
   </div>
  {% endfor %}
