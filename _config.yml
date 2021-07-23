@@ -18,7 +18,6 @@ author:
   url:            'http://jpberriz.com'
 
 paginate:         5
-paginate_path:    /notes/page:num/
 
 
 # Custom vars
