@@ -11,9 +11,8 @@ layout: default
         {{ post.title }}
       </a>
     </h2>
+  <span class="post-date">{{ post.date | date_to_string }}</span>
     {{ post.content }}
-    <hr>
-    <span class="post-date">{{ post.date | date_to_string }}</span>
   </div>
  {% endfor %}
 </div>
