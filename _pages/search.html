@@ -6,9 +6,22 @@ tipue_search_active: true
 exclude_from_search: true
 ---
 <form action="{{ page.url | relative_url }}">
-  <div class="tipue_search_right"><input type="text" name="q" id="tipue_search_input" pattern=".{3,}" title="At least 3 characters" required></div>
-  <div style="clear: both;"></div>
+
+<div class="wrap">
+   <div class="search">
+      
+        <input type="text" name="q" id="tipue_search_input" pattern=".{3,}" class="searchTerm" title="At least 3 characters" required onfocus="this.value=''">
+      
+      <button type="submit" class="searchButton">
+        <i class="fa fa-search"></i>
+      </button>
+        
+   </div>
+</div>
+
 </form>
+
+<div style="clear: both;"></div>
 
 <div id="tipue_search_content"></div>
 
@@ -17,3 +30,4 @@ $(document).ready(function() {
   $('#tipue_search_input').tipuesearch();
 });
 </script>
+
