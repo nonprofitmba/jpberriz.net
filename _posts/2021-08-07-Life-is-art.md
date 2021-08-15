@@ -5,8 +5,7 @@ permalink: life-is-art
 category: Life
 tags: Art
 ---
-[Ai Weiwei](https://en.wikipedia.org/wiki/Ai_Weiwei){:target="_blank"} is currently China's most famous artist.
-
+[Ai Weiwei](https://en.wikipedia.org/wiki/Ai_Weiwei){:target="_blank"} is currently China's most famous artist.  
 My favorite quote of his is
 
 > Life is art. Art is life. I never separate it.

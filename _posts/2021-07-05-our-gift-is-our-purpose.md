@@ -14,6 +14,4 @@ I came across this wonderful quote:
 
 
 
-​    
-
 A bit about its origin by the [quoteinvestigator.com](https://quoteinvestigator.com/2014/06/16/purpose-gift/){:target="_blank"}

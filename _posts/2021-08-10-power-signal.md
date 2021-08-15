@@ -6,15 +6,11 @@ category: Leadership
 tags: Leadership
 ---
 
-### A king needs a crown.
-
+A king needs a crown.   
 It's a reminder.
 
-To know where we stand, where we sit.
-
+To know where we stand, where we sit.  
 What we are supposed to do.
-
-
 
 We still need these things.
 
