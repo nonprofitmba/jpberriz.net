@@ -10,15 +10,10 @@ tags: thinking
 
 - [About Mental Models](https://fs.blog/mental-models/#general_thinking_concepts){:target="_blank"} 
 - [First Principles as a Core Mental Model](https://fs.blog/2018/04/first-principles/){:target="_blank"} 
-
 - [Munger's Mental Models](https://www.youtube.com/watch?v=ywyQ_eNNCJU){:target="_blank"} 
-
 - [Munger's 3 top Mental Model](https://www.youtube.com/watch?v=uvIcZpNFE_s){:target="_blank"} 
-
 - [How Elon Musk uses First Principles](https://medium.com/the-mission/elon-musks-3-step-first-principles-thinking-how-to-think-and-solve-difficult-problems-like-a-ba1e73a9f6c0){:target="_blank"} 
-
-- [The Five Whys](https://en.wikipedia.org/wiki/Five_whys){:target="_blank"}  ... it was developed by [Sakichi Toyoda](https://en.wikipedia.org/wiki/Sakichi_Toyoda){:target="_blank"}  the founder of Toyota !!
-
+- [The Five Whys](https://en.wikipedia.org/wiki/Five_whys){:target="_blank"}  ... developed by [Sakichi Toyoda](https://en.wikipedia.org/wiki/Sakichi_Toyoda){:target="_blank"}   founder of Toyota
 - [Mind maps, cognitive maps, concept maps definitions](https://www.nngroup.com/articles/cognitive-mind-concept/){:target="_blank"} 
 
 
