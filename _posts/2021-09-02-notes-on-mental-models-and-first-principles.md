@@ -6,7 +6,7 @@ category: Life
 tags: thinking
 ---
 
-### Selected Sources
+## Selected Sources
 
 - [About Mental Models](https://fs.blog/mental-models/#general_thinking_concepts){:target="_blank"} 
 - [First Principles as a Core Mental Model](https://fs.blog/2018/04/first-principles/){:target="_blank"} 
@@ -23,7 +23,7 @@ tags: thinking
 
 
 
-### Key concepts
+## Key concepts
 
 A **first principle** is a proposition or an assumption on which true knowledge is based. In science, theories, methods, and laws are derived from first principles. Axioms and postulates are the first principles in mathematics.
 
@@ -45,12 +45,12 @@ A **concept map** is another type of cognitive map in which nodes represent conc
 
 
 
-### Methodologies
+## Methodologies
 
 [Best source](https://www.maray.ai/posts/first-principles-thinking){:target="_blank"} 
 
 
-#### 1. Five Whys
+### 1. Five Whys
 
 [Wikipidia](https://en.wikipedia.org/wiki/Five_whys){:target="_blank"} 
 
@@ -64,7 +64,7 @@ An example of a problem is: The vehicle will not start.
 
 
 
-#### 2. Questions method #1
+### 2. Questions method #1
 
 1. Clarifying your thinking and explaining the origins of your ideas (Why do I think this? What exactly do I think?)
 2. Challenging assumptions (How do I know this is true? What if I thought the opposite?)
@@ -76,7 +76,7 @@ An example of a problem is: The vehicle will not start.
 
 
 
-#### 3. Questions Method #2
+### 3. Questions Method #2
 
 [Method source](https://benjaminstrusnik.com/blog/wealth/business/growth/first-principles-thinking/){:target="_blank"} 
 
@@ -87,7 +87,7 @@ An example of a problem is: The vehicle will not start.
 
 
 
-#### 4. Generic parts technique 
+### 4. Generic parts technique 
 
 There are two basic questions that you ask as part of this process:
 
