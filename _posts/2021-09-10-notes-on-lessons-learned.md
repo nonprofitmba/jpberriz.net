@@ -76,27 +76,6 @@ Anyone with an interest in the Project
 
 
 
-### Some questions for the Project Evaluation
-
-* What assumptions were made during the project's design that were proven correct/tru or incorrect/not true during its implementation?
-
-* Was the project documentation up to the following Documentation Quality Standard?
-
-  1. Legible: Letters and numbers are clear and readable to avoid misinterpretation.
-  2. Understandable: Language, meaning, terms, and definitions are understood by readers. 
-  3. Organized: Information is labeled, numbered, and paginated so it can be followed.
-  4. Accessible: Items are retrieved and viewed by authorized persons on reasonable request. 
-  5. Truthful: These are factual and accurate to the best of the contributor’s knowledge.
-  6. Ethical: Material is honest and legal to the best of the contributor’s knowledge.
-  7. Permanent: Information is automatically dated when created and saved. 
-  8. Consistent: Quality attributes are incorporated through an agreed-to common appearance.
-  9. Controlled: There is an established workflow to allow for review and approval.
-  10. Reviewed: Self or others check to ensure content meets requirements.
-
-* Can we make gantt chart with an actual timeline of project activities, vs. activities as planned?
-
-
-
 ### Project Evaluation Outline
 
 1. Preliminaries (Part A) include the following:
