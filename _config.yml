@@ -9,12 +9,12 @@ permalink:        pretty
 title:            JPBerriz
 tagline:          'JPBerriz'
 description:      'Life is Art'
-url:              https://jpberriz.com
-baseurl:          /
+url:              http://127.0.0.1:4000
+baseurl:          
 
 author:           
   name:           'Juan Pablo Berrizbeitia'
-  url:            http://jpberriz.com
+  url:            http://jpberriz.net
 
 paginate:         5
 
@@ -33,3 +33,8 @@ tipue_search:
 
 # Google Analytics
 google_analytics: G-P8VDRWRQ8P
+
+plugins:
+   - jekyll-admin
+   - jekyll-paginate
+   
