@@ -8,7 +8,7 @@ tags: quote
 
 > "Pretty much every project begins with entering a world"
 >
-> - Es Devlin
+> -- Es Devlin
 
 Every project starts with diving into a world new to you.
 
