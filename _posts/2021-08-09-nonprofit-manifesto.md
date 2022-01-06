@@ -1,9 +1,14 @@
 ---
-layout: post
 title: Nonprofit Manifesto
+date: 2021-08-09 00:00:00 Z
 permalink: nonprofit-manifesto
-category: Nonprofit Management
-tags: Purpose, Manifesto, Why
+categories:
+- Nonprofit Management
+tags:
+- Purpose,
+- Manifesto,
+- Why
+layout: post
 ---
 
 #### Nonprofit missions are too important.

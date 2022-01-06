@@ -1,9 +1,12 @@
 ---
-layout: post
 title: Brief research on trademarks
+date: 2021-02-06 00:00:00 Z
 permalink: brief-research-on-trademarks
-category: Intellectual property
-tags: Trademark
+categories:
+- Intellectual property
+tags:
+- Trademark
+layout: post
 ---
 
 ## Resources:

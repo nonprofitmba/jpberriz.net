@@ -1,9 +1,12 @@
 ---
-layout: post
 title: Around the rock
+date: 2021-08-11 00:00:00 Z
 permalink: around-the-rock
-category: Leadership
-tags: Leadership
+categories:
+- Leadership
+tags:
+- Leadership
+layout: post
 ---
 
 If you've been pushing a big heavy rock for a long time, you are not making much progress, and you are tired, stop.

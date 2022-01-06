@@ -1,10 +1,14 @@
 ---
-layout: post
 title: From Employee to Team Member
+date: 2021-07-10 00:00:00 Z
 permalink: from-employee-to-team-member
-category: Nonprofit Management
-tags: Leadership
+categories:
+- Nonprofit Management
+tags:
+- Leadership
+layout: post
 ---
+
 At a basic level, an employee can be a good performer when they are explained what steps to follow to do their job, they follow them efficiently and on time, resulting in the desired outcomes. 
 
 But we can do much more than tell an employee what they need to do. And they can do so much more for the organization.

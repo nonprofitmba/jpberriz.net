@@ -1,11 +1,14 @@
 ---
-layout: post
 title: It's Art If I Say So
+date: 2021-09-06 00:00:00 Z
 permalink: its-art-if-i-say-so
-category: Life
-tags: Purpose, Art
+categories:
+- Life
+tags:
+- Purpose,
+- Art
+layout: post
 ---
-
 
 Marcel Duchamp  
 (28 July 1887 – 2 October 1968)

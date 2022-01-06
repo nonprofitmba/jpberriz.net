@@ -1,9 +1,12 @@
 ---
-layout: post
 title: It's not about you
+date: 2021-09-05 00:00:00 Z
 permalink: its-not-about-you
-category: Aikido
-tags: Quote
+categories:
+- Aikido
+tags:
+- Quote
+layout: post
 ---
 
 When someone attacks you. 

@@ -1,10 +1,14 @@
 ---
-layout: post
 title: The Mission is Cultural Change
+date: 2021-07-10 00:00:00 Z
 permalink: the-mission-is-cultural-change
-category: Nonprofit Management
-tags: Leadership
+categories:
+- Nonprofit Management
+tags:
+- Leadership
+layout: post
 ---
+
 I learned many lessons while witnessing how Hugo Chavez brought radical change to Venezuelan society. He changed the country where I was born from a mediocre democracy to a strong authoritarian regime that forced me to leave with my family.
 
 #### Change the culture to change the world

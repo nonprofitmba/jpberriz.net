@@ -1,40 +1,33 @@
-# Dependencies
-markdown:         kramdown
-highlighter:      rouge
-
-# Permalinks
-permalink:        pretty
-
-# Setup
-title:            JPBerriz
-tagline:          'JPBerriz'
-description:      'Life is Art'
-url:              http://127.0.0.1:4000
-baseurl:          
-
-author:           
-  name:           'Juan Pablo Berrizbeitia'
-  url:            http://jpberriz.net
-
-paginate:         5
-
-# Custom vars
-version:          2.1.0
-
+---
+title: JPBerriz
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+tagline: JPBerriz
+description: Life is Art
+url: http://127.0.0.1:4000
+baseurl: 
+author:
+  name: Juan Pablo Berrizbeitia
+  url: http://jpberriz.net
+paginate: 5
+version: 2.1.0
 github:
-  repo:           https://github.com/jpberriz/jpberriz.net
-
-include:          ['_pages']
-
-# Site search 
+  repo: https://github.com/jpberriz/jpberriz.net
+include:
+- _pages
 tipue_search:
   include:
-    pages:        true
-
-# Google Analytics
+    pages: true
 google_analytics: G-P8VDRWRQ8P
-
 plugins:
-   - jekyll-admin
-   - jekyll-paginate
-   
+- jekyll-admin
+- jekyll-paginate

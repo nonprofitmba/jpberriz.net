@@ -1,9 +1,12 @@
 ---
-layout: post
 title: Notes on Lessons Learned
+date: 2021-09-10 00:00:00 Z
 permalink: notes-on-lessons-learned
-category: Project Evaluation
-tags: Summaries
+categories:
+- Project Evaluation
+tags:
+- Summaries
+layout: post
 ---
 
 *Source: The Basics of Project Evaluation and Lessons Learned, by Willis H. Thomas, CRC Press, 2015*

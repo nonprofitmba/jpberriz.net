@@ -1,9 +1,12 @@
 ---
-layout: post
 title: Symbols of power
+date: 2021-08-10 00:00:00 Z
 permalink: symbols-of-power
-category: Leadership
-tags: Leadership
+categories:
+- Leadership
+tags:
+- Leadership
+layout: post
 ---
 
 A king needs a crown.   

@@ -1,9 +1,12 @@
 ---
-layout: post
 title: Notes Es Devlin's Masterclass
+date: 2021-10-23 00:00:00 Z
 permalink: notes-es-devlin-masterclass
-category: Design
-tags: notes
+categories:
+- Design
+tags:
+- notes
+layout: post
 ---
 
 ### Research, then sketch

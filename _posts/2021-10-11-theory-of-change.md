@@ -1,9 +1,12 @@
 ---
-layout: post
-title:  Notes on Theory of Change approach toProgram Evaluation 
+title: Notes on Theory of Change approach toProgram Evaluation
+date: 2021-10-11 00:00:00 Z
 permalink: theory-of-change
-category: Nonprofit Management
-tags: Summaries
+categories:
+- Nonprofit Management
+tags:
+- Summaries
+layout: post
 ---
 
 Source: Applying a Theory of Change Approach to the Evaluation of Comprehensive Community Initiatives: Progress, Prospects, and Problems. *by James P. Connell and Anne C. Kubrisch* [Link](https://www.semanticscholar.org/paper/Applying-a-Theory-of-Change-Approach-to-the-of-and-Kubisch/b5ae8eceb15ffaf10e2268af2a045c62b4e13f51){:target="_blank"}

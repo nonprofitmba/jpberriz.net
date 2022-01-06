@@ -1,9 +1,12 @@
 ---
-layout: post
 title: We're building here
+date: 2021-08-13 00:00:00 Z
 permalink: were-building-here
-category: Nonprofit Management
-tags: Leadership
+categories:
+- Nonprofit Management
+tags:
+- Leadership
+layout: post
 ---
 
 We're building something here.  

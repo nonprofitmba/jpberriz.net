@@ -1,9 +1,12 @@
 ---
-layout: post
 title: Notes on Mental Models and First Principles
+date: 2021-09-02 00:00:00 Z
 permalink: notes-on-mental-models-and-first-principles
-category: Life
-tags: thinking
+categories:
+- Life
+tags:
+- thinking
+layout: post
 ---
 
 ## Selected Sources

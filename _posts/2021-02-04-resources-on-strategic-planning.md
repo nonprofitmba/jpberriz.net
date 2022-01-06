@@ -1,10 +1,21 @@
 ---
-layout: post
 title: Resources on strategic planning
+date: 2021-02-04 00:00:00 Z
 permalink: resources-on-strategic-planning
-category: Nonprofit Management
-tags: Strategic Planning, Purpose, Resources, Books, Articles, Websites, Courses
+categories:
+- Nonprofit Management
+tags:
+- Strategic
+- Planning,
+- Purpose,
+- Resources,
+- Books,
+- Articles,
+- Websites,
+- Courses
+layout: post
 ---
+
 This is a complete list of sources I found online on **strategic planning for nonprofits**, in no particular order.
 
 

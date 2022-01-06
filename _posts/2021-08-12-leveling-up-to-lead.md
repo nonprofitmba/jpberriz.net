@@ -1,9 +1,12 @@
 ---
-layout: post
 title: Leveling up to lead
+date: 2021-08-12 00:00:00 Z
 permalink: leveling-up-to-lead
-category: Nonprofit Management
-tags: Leadership
+categories:
+- Nonprofit Management
+tags:
+- Leadership
+layout: post
 ---
 
 Leveling up to lead is a privilege and a responsibility. When you lead, your decisions gain wider and deeper consequence. So does your responsibility for your decisions. 

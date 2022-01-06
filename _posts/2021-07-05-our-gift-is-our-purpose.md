@@ -1,10 +1,14 @@
 ---
-layout: post
 title: Our Gift is our Purpose
+date: 2021-07-05 00:00:00 Z
 permalink: the-purpose-of-life-is-to-discover-your-gift
-category: Life
-tags: Purpose
+categories:
+- Life
+tags:
+- Purpose
+layout: post
 ---
+
 I came across this wonderful quote:   
 
 

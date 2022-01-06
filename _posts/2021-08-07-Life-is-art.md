@@ -1,10 +1,14 @@
 ---
-layout: post
 title: Life is Art
+date: 2021-08-07 00:00:00 Z
 permalink: life-is-art
-category: Life
-tags: Art
+categories:
+- Life
+tags:
+- Art
+layout: post
 ---
+
 [Ai Weiwei](https://en.wikipedia.org/wiki/Ai_Weiwei){:target="_blank"} is currently China's most famous artist.  
 My favorite quote of his is
 

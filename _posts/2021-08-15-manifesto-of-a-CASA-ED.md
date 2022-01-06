@@ -1,9 +1,12 @@
 ---
-layout: post
 title: Manifesto of a CASA Executive Director
+date: 2021-08-15 00:00:00 Z
 permalink: manifesto-of-a-CASA-ED
-category: Nonprofit Management
-tags: Leadership
+categories:
+- Nonprofit Management
+tags:
+- Leadership
+layout: post
 ---
 
 Every day I walk into my office thinking of our children. The children we serve. But mostly the children we are not serving. 

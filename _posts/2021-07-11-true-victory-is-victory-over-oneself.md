@@ -1,11 +1,13 @@
 ---
+title: Masakatsu Agatsu
+date: 2021-07-11 00:00:00 Z
+permalink: masakatsu-agatsu
+categories:
+- Aikido
+tags:
+- Quote
 layout: post
-title: Masakatsu Agatsu 
-permalink: masakatsu-agatsu 
-category: Aikido
-tags: Quote
 ---
-
 
 > Masakatsu Agatsu - True victory is victory over oneself 
 
