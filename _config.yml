@@ -29,5 +29,4 @@ tipue_search:
     pages: true
 google_analytics: G-P8VDRWRQ8P
 plugins:
-- jekyll-admin
 - jekyll-paginate
