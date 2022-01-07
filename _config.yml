@@ -11,8 +11,8 @@ collections:
 markdown: kramdown
 highlighter: rouge
 permalink: pretty
-tagline: NonProfit.MBA
-description: Nonprofit Business Management
+tagline: Nonprofit Business Management
+description: 
 url: https://nonprofit.mba
 baseurl: 
 author:
