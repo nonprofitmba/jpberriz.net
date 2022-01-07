@@ -1,5 +1,5 @@
 ---
-title: Notes Es Devlin's Masterclass
+title: Notes from Es Devlin's Masterclass
 date: 2021-10-23 00:00:00 Z
 permalink: notes-es-devlin-masterclass
 categories:
@@ -21,9 +21,6 @@ Entering a world is done through research.
 
 > "You are *searching* for a way *in* for *you*"
 
-
-
-
 #### 2.
 
 You can do research in many ways. 
@@ -34,9 +31,6 @@ Find patterns in what you research.
 
 > "Lot's of people have looked at this thing. Lot's of people have looked at that thing. But maybe, you are the first person to make a connection between them."
 
-
-
-
 #### 3.
 
 Never think without a pencil.
@@ -45,17 +39,11 @@ Never think without a pencil.
 >
 > "Because often, in the flight of thought, of ideation, you can get lost and forget where you came from. So you need to leave traces."
 
-
-
-
 #### 4. 
 
 Don't ever be afraid of imitation. 
 
 > "Don't be afraid of standing on the shoulders of others who have had extraordinary ideas. That is what we all do."
-
-
-
 
 #### 5. 
 
@@ -63,32 +51,19 @@ Iterate, iterate, iterate.
 
 If you have to, push yourself into having to come up with another idea. 
 
-
-
-
 #### 6. 
 
 While materializing your idea, and having to compromise with the limitations of physical possibilities.
 
 Assess if any changes push your creation too far from your original idea, and are really a different idea.  
 
-
-
-
-###Scale Models
-
 #### 7. 
 
 Build a model to scale of the materialization of your idea. It will help you communicate your idea with collaborators. And it will tell a story.
 
-
-
 #### 8.
 
 First models are simple, made fast, not laborious, so they can keep the pace of your train of thought. 
-
-
-
 
 #### 9.
 
@@ -97,9 +72,6 @@ There may be 10 models, 3, or 75.
 Or none at all.
 
 The process has no rules. 
-
-
-
 
 #### 10.
 
