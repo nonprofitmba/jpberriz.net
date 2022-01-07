@@ -1,3 +1,3 @@
 # ReadMe
 
-A repository of my personal notes. 
+Website for the NonProfit.MBA project.
