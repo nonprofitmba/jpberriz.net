@@ -1,5 +1,5 @@
 ---
-title: JPBerriz
+title: NonProfit.MBA
 timezone: UTC
 collections:
   posts:
@@ -11,22 +11,22 @@ collections:
 markdown: kramdown
 highlighter: rouge
 permalink: pretty
-tagline: JPBerriz
+tagline: NonProfit.MBA
 description: Life is Art
-url: http://127.0.0.1:4000
+url: https://nonprofit.mba
 baseurl: 
 author:
-  name: Juan Pablo Berrizbeitia
-  url: http://jpberriz.net
+  name: J.P.Berriz
+  url: http://jpberriz.com
 paginate: 5
 version: 2.1.0
 github:
-  repo: https://github.com/jpberriz/jpberriz.net
+  repo: https://github.com/nonprofitmba/nonprofit.mba
 include:
 - _pages
 tipue_search:
   include:
     pages: true
-google_analytics: G-P8VDRWRQ8P
+google_analytics: UA-144919967-1
 plugins:
 - jekyll-paginate
