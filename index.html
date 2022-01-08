@@ -13,7 +13,7 @@ exclude_from_search: true
       </a>
     </h1>
     <span class="post-date">{{ post.date | date_to_string }}</span>
-    {{ post.content }}
+    {{ post.content | strip_html | truncatewords: 50 }}
   </div>
  {% endfor %}
 </div>
