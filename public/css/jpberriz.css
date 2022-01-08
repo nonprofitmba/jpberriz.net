@@ -33,6 +33,7 @@ html {
 #profile-picture {
   margin-left: auto;
   margin-right: auto;
+  margin-bottom: 3.5rem;
 }
 
 /* Sidebar about section */
@@ -72,7 +73,8 @@ html {
 
 /* Notes by Categories on Notes page */
 .category-head {
-   font-size: 1rem;
+   font-size: 1.3rem;
+   margin-top: 2rem;
 }
 
 .archive-item {
