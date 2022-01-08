@@ -1,3 +1,4 @@
+
 title: 
 timezone: UTC
 collections:
@@ -9,7 +10,7 @@ collections:
     output: true
 markdown: kramdown
 highlighter: rouge
-permalink: /:title:output_ext
+permalink: pretty
 tagline: 
 description: 
 url: https://nonprofit.mba
