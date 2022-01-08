@@ -21,7 +21,7 @@ layout: default
 
 <br>
 
-Our content will help you master *principles* rather than tools or techniques. Mastering a tool or techniques allows you to implement it successfully to obtain a particular output. Mastering the principles behind a tool or technique allows you to evaluate the tools effectiveness, understand how it works or is supposed to work, improve it or choose a better one. Principles help us think with more clarity and make better decisions.
+Our content will help you master *principles* rather than tools or techniques. Mastering a tool or techniques allows you to implement it successfully to obtain a particular output. Mastering the principles on which a tool or technique is built allows you to evaluate the tools effectiveness, understand how it works or is supposed to work, improve it or choose a better one. Principles help us think with more clarity and make better decisions.
 
 
 
