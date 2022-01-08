@@ -4,13 +4,10 @@ layout: default
 exclude_from_search: true
 ---
 
-# Welcome to the NonProfit.MBA
+# Welcome to the Nonprofit.MBA
 
-
-
-This is the welcome page. 
-
-Please subscribe!
+Please [subscribe](/subscribe) to our newsletter.
 
 Check out the posts. 
 
+The Nonprofit.mba is a project to generate managers who want to learn how to improve the performance of their organizations, build their capacity, and engage in innovation.
