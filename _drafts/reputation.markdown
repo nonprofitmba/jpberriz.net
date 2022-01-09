@@ -8,9 +8,9 @@ categories:
 
 Thoughts about meeting with Amanda. She was worried that conversation with volunteer Heather asking her to leave could cause reputation issues because  Heather is connected in the community and is likely to bad-mouth us.
 
-Stoic philosophers reminded me what we have under our control and what we don't.   In [The Enchiridion](http://classics.mit.edu/Epictetus/epicench.html), [Epictetus](https://en.wikipedia.org/wiki/Epictetus) explains that:
+Stoic philosophers reminded me what we have under our control and what we don't.  In [The Enchiridion](http://classics.mit.edu/Epictetus/epicench.html), [Epictetus](https://en.wikipedia.org/wiki/Epictetus) explains that:
 
-> 1. Some things are in our control and others not. Things in our control are opinion, pursuit, desire, aversion, and, in a word, whatever are our own actions. Things not in our control are body, property, reputation, command, and, in one word, whatever are not our own actions. 
+> 1. Some things are in our control and others not. Things in our control are opinion, pursuit, desire, aversion, and, in a word, whatever are our own actions. Things not in our control are body, property, reputation, command, and, in one word, whatever are not our own actions.
 
 Epictetus lists *reputation* explicitly as something outside our control.
 
