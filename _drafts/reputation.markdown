@@ -14,8 +14,20 @@ Stoic philosophers reminded me what we have under our control and what we don't.
 
 Epictetus lists *reputation* explicitly as something outside our control.
 
-In his awesome book [The Personal MBA](https://personalmba.com/), [Josh Kaufman](https://joshkaufman.net/) defines reputation as "what people think about a company or offer".  Which
+In his awesome book [The Personal MBA](https://personalmba.com/), [Josh Kaufman](https://joshkaufman.net/) explains the following about reputation: 
 
-Building a strong reputation is very valuable; people are willing to pay more for a good reputation.
+> *Reputation* is what people think about a company or offer.
+>
+> Building a strong reputation is very valuable; people are willing to pay more for a good reputation.
+>
+> It’s critical to understand that you don’t control your reputation, people will decide what your reputation is. You can’t “manage” it. You can only improve it over time by making sure that those who do business with you are glad they did.
 
-It’s critical to understand that you don’t control your reputation, people will decide what your reputation is. You can’t “manage” it. You can only improve it over time by making sure that those who do business with you are glad they did.
+This applies to nonprofit organizations as much as it applies to a for-profit company. 
+
+The key as managers and leaders is to understand and keep in mind what Kaufman says: "You can only improve it over time by making sure that those who do business with you are glad they did."
+
+If you have to make a difficult decision - that you know is the right one - but can have a 
+
+This, combined with the principle that we can't please everyone, ...
+
+Just do what you do, create the value, deliver it, the people who appreciate it, will follow you.
