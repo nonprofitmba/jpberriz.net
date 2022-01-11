@@ -1,13 +1,13 @@
 ---
-title: Nonprofit Manifesto
+title: The beginning of a Nonprofit Manifesto
 date: 2021-08-09 00:00:00 Z
 permalink: nonprofit-manifesto
 categories:
-- Nonprofit Management
+- Purpose
 tags:
-- Purpose,
-- Manifesto,
-- Why
+- Manifesto
+- Mission
+- Values
 layout: post
 ---
 
@@ -17,9 +17,9 @@ Nonprofits go to work every day to make the world a better place.  To feed the h
 
 #### Nonprofit culture must change.
 
-We cannot be charities, we cannot be tree huggers. There is too much at stake. We are changing the world. There isn't a more important mission.
+We cannot be charities anymore. There is too much at stake. We are changing the world. There isn't a more important mission.
 
-#### Nonprofit performance is critical.
+#### Nonprofit performance and innovation is critical.
 
 The world needs nonprofits to be high-performing and innovative organizations.  Anything less endangers our future, fails our present. We cannot afford it, it's unacceptable. 
 
@@ -28,11 +28,3 @@ The world needs nonprofits to be high-performing and innovative organizations.  
 Knowledge is the key to elevate the impact of nonprofit work, to increase our capabilities to carry out our missions and make the world a better place.
 
 Visit any university, library, or bookstore, and you will hardly find knowledge on nonprofits, compared to the seemingly unlimited number of business books. For every academic program and degree related to nonprofits you will find many many more for business. 
-
-#### Nonprofits cannot afford to ignore business knowledge.
-
-We have to start somewhere. And there is so much of business knowledge available. What to use, how to use it in a nonprofit, these are good questions.  We need to experiment, learn, and generate new knowledge that elevates their work.
-
-#### Nonprofits are businesses
-
-If a business is an entity that creates and delivers value, then nonprofits are businesses. 
