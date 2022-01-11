@@ -3,7 +3,7 @@ title: Testing the Nonprofit Management Framework
 date: 2022-01-10 17:30:47 Z
 permalink: testing-the-nonprofit-management-framework
 categories:
-- Tests
+- The Nonprofit Management Framework
 tags:
 - Cases
 layout: post
