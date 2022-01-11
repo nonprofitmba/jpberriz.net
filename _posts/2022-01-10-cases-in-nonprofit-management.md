@@ -9,7 +9,7 @@ tags:
 layout: post
 ---
 
-In their book "Cases in Nonprofit Management", [Pat Libby](https://www.patlibby.com/) and [Laura Deitrick](https://www.sandiego.edu/directory/biography.php?profile_id=2403) offer 50 cases on nonprofit management. There are about 14 different topics on which the cases touch upon, and each case is about a different type of nonprofit organization (e.g. homeless shelter, hospital, group home, university, etc.). This cases are smart, well-written, interesting, realistic, with a bit of humor, easy to read, varied, and they cover a wide range of useful topics. 
+In their book "Cases in Nonprofit Management", [Pat Libby](https://www.patlibby.com/) and [Laura Deitrick](https://www.sandiego.edu/directory/biography.php?profile_id=2403) offer 50 cases on nonprofit management. There are about 14 different topics on which the cases touch upon, and each case is about a different type of nonprofit organization (e.g. homeless shelter, hospital, group home, university, etc.). This cases are smart, well-written, interesting, realistic, easy to read, varied, and they cover a wide range of useful topics. 
 
 In each of the cases, Pat and Laura describe a nonprofit organization's situation, how some decisions are made by members of staff or the board, and the consequences of those decision. They add suggested questions at the end of each case to help start your thinking or discussion. 
 
