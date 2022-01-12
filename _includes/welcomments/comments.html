@@ -10,7 +10,8 @@
     <p>Please replace <code>YOUR-WEBSITE-ID-HERE</code> with the website id from Welcomments console.</p>
   </div>
 {%- endif -%}
-
+<hr>
+<h2>Comments</h2>
 <div id="welcomments__container" class="welcomments__container">
   {%- assign article_url = page.slug -%}
 
@@ -19,14 +20,14 @@
   {%- else -%}
     {%- assign all_comments = site.data.welcomments["___root___"] -%}
   {%- endif -%}
-
+<!-- JP TOOK OUT THE FOLLOWING CODE AND REPLACED WITH SIMPLE H2 "Comments" above
   {%- if all_comments.size > 0 -%}
     <h3 id="welcomments__comment-count-title" class="welcomments__comments-title">{{ all_comments.size }} comment{%- if all_comments.size > 1 -%}s{%- endif -%}</h3>
   {%- else -%}
     <h3 id="welcomments__comment-count-title" class="welcomments__comments-title">No comments yet!</h3>
   {%- endif -%}
-
-  <section id="welcomments__comment-container" class="welcomments__comment-container">
+-->
+<section id="welcomments__comment-container" class="welcomments__comment-container">
     {%- if all_comments.size > 0 -%}
       {%- assign parent_comments = all_comments | where_exp: "c", "c.replying_to == nil" | sort: 'id' -%}
 
@@ -46,7 +47,7 @@
     api_url    = api_url
     website_id = include.website_id -%}
 </div>
-
+<hr>
 <!--
   Contains some basic comment section styling, so that you can get started quickly
   without having to come up with your own CSS if you don't want to.

@@ -80,3 +80,8 @@ html {
 .archive-item {
    font-size: 1rem;
 }
+
+/* Comments form */
+.welcomments__container .welcomments__submit-button {
+   background-color: #990000 !important;
+}
