@@ -14,6 +14,8 @@ layout: default
 * Growing the capacity of nonprofits to carry out their mission, and 
 * Implementing innovation practices in nonprofits.
 
+-- You can read the [blog]/blog) posts, explore the [archive](/archive) by topic, and [search](/search) the blog with keywords using the links on the menu.
+
 **2. A Newsletter** where you get links to our best posts - [Subscribe here.](/subscribe)
 
 **3. A Book** that will compile all this information for you to reference and share.
