@@ -5,30 +5,18 @@ layout: page
 tipue_search_active: true
 exclude_from_search: true
 ---
-
 <form action="{{ page.url | relative_url }}">
-
 <div class="wrap">
    <div class="search">
-      
-        <input type="text" name="q" id="tipue_search_input" pattern=".{3,}" class="searchTerm" title="At least 3 characters" required onfocus="this.value=''">
-      
-      <button type="submit" class="searchButton">
-        <i class="fa fa-search"></i>
-      </button>
-        
+        <input type="text" name="q" id="tipue_search_input" pattern=".{3,}" class="searchTerm" placeholder="Type here..." title="At least 3 characters" required onfocus="this.value=''">
+      <button type="submit" class="searchButton">Submit</button>
    </div>
 </div>
-
 </form>
-
 <div style="clear: both;"></div>
-
 <div id="tipue_search_content"></div>
-
 <script>
 $(document).ready(function() {
   $('#tipue_search_input').tipuesearch();
 });
 </script>
-

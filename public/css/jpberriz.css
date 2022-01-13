@@ -85,3 +85,80 @@ html {
 .welcomments__container .welcomments__submit-button {
    background-color: #990000 !important;
 }
+
+/* Tipuesearch changes */
+#tipue_search_input {
+appearance:none;
+--tw-bg-opacity: 1;
+background-color: rgba(229,231,235,var(--tw-bg-opacity));
+--tw-border-opacity:1;
+border-color:rgba(229,231,235,var(--tw-border-opacity));
+border-width:1px;
+display:block;
+line-height:1.25;
+}
+
+#tipue_search_input:focus {
+--tw-bg-opacity:1;
+background-color:rgba(255,255,255,var(--tw-bg-opacity));
+--tw-border-opacity:1;
+border-color:rgba(107,114,128,var(--tw-border-opacity));
+outline:2px solid transparent;
+outline-offset:2px
+}
+
+.search *,
+.search:after, 
+.search:before {
+   box-sizing:border-box;
+   border:0 solid #e5e7eb;
+   border-top-color: rgb(229, 231, 235);
+   border-top-style: solid;
+   border-top-width: 0px;
+   border-right-color: rgb(229, 231, 235);
+   border-right-style: solid;
+   border-right-width: 0px;
+   border-bottom-color: rgb(229, 231, 235);
+   border-bottom-style: solid;
+   border-bottom-width: 0px;
+   border-left-color: rgb(229, 231, 235);
+   border-left-style: solid;
+   border-left-width: 0px;
+   border-image-source: initial;
+   border-image-slice: initial;
+   border-image-width: initial;
+   border-image-outset: initial;
+   border-image-repeat: initial;
+}
+
+#tipue_search_results_count {
+   margin-top: 0.75rem;
+}
+
+.searchButton {
+  margin-top: 1.5rem;
+  --tw-bg-opacity: 1;
+  background-color: rgba(17,24,39,var(--tw-bg-opacity));
+  font-weight: 700;
+  font-size: 100%;
+  margin-top: 1.5rem;
+  padding: 0.5rem 1rem;
+  --tw-shadow: 0 0 transparent;
+  box-shadow: var(--tw-ring-offset-shadow,0 0 transparent),var(--tw-ring-shadow,0 0 transparent),var(--tw-shadow);
+  --tw-text-opacity: 1;
+  color: rgba(255,255,255,var(--tw-text-opacity));
+  --tw-translate-x: 0;
+  --tw-translate-y: 0;
+  --tw-rotate: 0;
+  --tw-skew-x: 0;
+  --tw-skew-y: 0;
+  --tw-scale-x: 1;
+  --tw-scale-y: 1;
+  transform: translateX(var(--tw-translate-x)) translateY(var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y));
+  transition-property: background-color,border-color,color,fill,stroke,opacity,box-shadow,transform;
+  transition-duration: .15s;
+  transition-timing-function: cubic-bezier(.4,0,.2,1);
+  transition-duration: .2s;
+  -webkit-appearance: button;
+  line-height: inherit;
+}
