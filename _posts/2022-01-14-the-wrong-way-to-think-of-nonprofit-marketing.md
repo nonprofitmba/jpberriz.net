@@ -1,5 +1,6 @@
 ---
 title: The wrong way to think of nonprofit marketing
+date: 2022-01-14 00:00:00 Z
 permalink: the-wrong-way-to-think-of-nonprofit-marketing
 categories:
 - Outreach
