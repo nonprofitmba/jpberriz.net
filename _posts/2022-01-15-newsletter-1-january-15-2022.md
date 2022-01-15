@@ -2,7 +2,7 @@
 title: Newsletter No.1
 permalink: newsletter-1-january-15-2022
 categories:
-- Newsletter
+- Newsletters
 tags:
 - newsletter
 layout: post
