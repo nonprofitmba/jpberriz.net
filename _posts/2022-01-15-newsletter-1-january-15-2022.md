@@ -1,5 +1,6 @@
 ---
 title: Newsletter No.1
+date: 2022-01-15 00:00:00 Z
 permalink: newsletter-1-january-15-2022
 categories:
 - Newsletter
@@ -7,6 +8,7 @@ tags:
 - newsletter
 layout: post
 ---
+
 <p align="center"><img src="http://nonprofit.mba/public/NPMBA_Full_LOGO.png"></p>
 <hr>
 
