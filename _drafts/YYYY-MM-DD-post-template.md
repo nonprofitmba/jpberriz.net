@@ -13,12 +13,14 @@ layout: post
 
 This [Link](){:target="_blank"} opens in a new tab 
 
-Being in the leadership team is as much as a privilege as it is a responsibility.
+Sometimes it is very difficult for me to hold back, restrain my anger when people in nonprofits forget that the work we do is not about us, but about the people we serve, and their suffering.  
 
-We can only make decisions with the information and knowledge that we have.
+If you are struggling to make a decision at work, a nonprofit, think about it this way: if you were in the shoes of the person whose life your nonprofit is trying to improve, what would you want the decision to be? It would be a decision that maximizes the benefit for them, both in the immediate and long-run. So, do that.
 
-But being a leader means taking responsibility for the results of that decision
+In nonprofits, we don't have the luxury of putting ourselves at the center of our work.  Instead, we have the privilege of working to reduce people's suffering and help improve their lives. 
 
-We are also responsible for increasing our knowledge and gathering as much information in order to make the best decisions we can
+Working in nonprofits is difficult, complex. 
 
-I remember of the leadership team is responsible for the decisions that occur that the team makes
+It's not a factory, nor a 
+
+It may not be for you. That's ok. 
