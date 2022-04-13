@@ -1,10 +1,10 @@
 ---
 title: What is a nonprofit's technology?
-date: 2022-04-13
+date: 2022-04-13 00:00:00 Z
 permalink: nonprofit-technology
 categories:
 - Operations
-tags: 
+tags:
 - Capacity Building
 - Technology Management
 - Knowledge Management
