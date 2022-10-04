@@ -1,5 +1,6 @@
 ---
 title: Comprehend
+date: 2022-10-04 00:00:00 Z
 permalink: comprehend
 categories:
 - Book
